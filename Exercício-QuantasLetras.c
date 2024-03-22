@@ -1,4 +1,4 @@
-\\ Nesse exercício o usuário digita uma palavra e o programa mostra quantas letras essa palavra possui. \\
+\\ Nesse exercício o usuário digita uma palavra em seguida uma letra, o programa mostra quantas vezes essa letra se repete na palavra. \\
 
 #include <stdio.h>
 #include <string.h>
