@@ -1,5 +1,5 @@
 
-\\Nesse exercício o usuário digita a posiçao correspondente ao número da sequência de fibonacci a qual ele quer. \\
+\\Nesse exercício o usuário digita a posiçao correspondente ao número da sequência de fibonacci a qual ele quer \\
 
 
 #include <stdio.h>
